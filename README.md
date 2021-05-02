@@ -59,7 +59,6 @@ width={200}
 </SPImageBackground>
 ```
 
-
 ## BasicTimer
 
 ![](assets/3.gif)
@@ -78,5 +77,5 @@ width={200}
 
 |Key |Type |Description |
 |--- |--- |--- |
-|`screenWidth`|function|screen Width|
-|`screenHeight`|function|screen Height |
+|`screenWidth`|number|screen Width|
+|`screenHeight`|number|screen Height |
