@@ -1,0 +1,36 @@
+{
+  "name": "@sekizlipenguen/react-native-helpers",
+  "version": "1.0.1",
+  "description": "React native general components",
+  "main": "index.js",
+  "scripts": {},
+  "files": [
+    "src",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sekizlipenguen/react-native-helpers.git"
+  },
+  "keywords": [
+    "react-native fast image loading",
+    "react-native auto height image",
+    "react-native basic timer"
+  ],
+  "author": "SekizliPenguen",
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
+  },
+  "devDependencies": {
+    "react": "^16.8.3",
+    "react-native": "^0.61.5"
+  },
+  "bugs": {
+    "url": "https://github.com/sekizlipenguen/react-native-helpers/issues"
+  },
+  "homepage": "https://github.com/sekizlipenguen/react-native-helpers#readme"
+}
