@@ -79,3 +79,4 @@ width={200}
 |--- |--- |--- |
 |`screenWidth`|number|screen Width|
 |`screenHeight`|number|screen Height |
+|`useBackButton`|function| React Hook Example: useBackButton(handleBackButton) or useBackButton(()=> { return true; or return false; }); |
